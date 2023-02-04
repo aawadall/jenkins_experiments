@@ -14,3 +14,5 @@ In this repository, I am experimenting with Jenkins.
 ## Journal 
 * Feb 4, 2023:
     * I have created a Jenkins Server on GCP using Bitnami's Jenkins image.
+    * So far the image is not properly working; an issue with reverse proxy is preventing me from accessing the Jenkins server.
+    * Bitnami experiment failed 
